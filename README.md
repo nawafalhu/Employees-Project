@@ -1,4 +1,4 @@
-# Employees-Project
+# Employees Project
 
 ## Overview
 This project is designed to analyze employee records, monitor performance, and optimize workforce management. It uses data analysis and machine learning to gain insights into employee efficiency, workload distribution, and retention factors.
